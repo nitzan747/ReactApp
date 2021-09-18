@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/ReactApp/static/css/main.7899c2cf.chunk.css",
+    "main.js": "/ReactApp/static/js/main.3a35844d.chunk.js",
+    "main.js.map": "/ReactApp/static/js/main.3a35844d.chunk.js.map",
+    "runtime-main.js": "/ReactApp/static/js/runtime-main.f81f5df9.js",
+    "runtime-main.js.map": "/ReactApp/static/js/runtime-main.f81f5df9.js.map",
+    "static/css/2.53150396.chunk.css": "/ReactApp/static/css/2.53150396.chunk.css",
+    "static/js/2.388091f5.chunk.js": "/ReactApp/static/js/2.388091f5.chunk.js",
+    "static/js/2.388091f5.chunk.js.map": "/ReactApp/static/js/2.388091f5.chunk.js.map",
+    "static/js/3.b3d7fb69.chunk.js": "/ReactApp/static/js/3.b3d7fb69.chunk.js",
+    "static/js/3.b3d7fb69.chunk.js.map": "/ReactApp/static/js/3.b3d7fb69.chunk.js.map",
+    "index.html": "/ReactApp/index.html",
+    "static/css/2.53150396.chunk.css.map": "/ReactApp/static/css/2.53150396.chunk.css.map",
+    "static/css/main.7899c2cf.chunk.css.map": "/ReactApp/static/css/main.7899c2cf.chunk.css.map",
+    "static/js/2.388091f5.chunk.js.LICENSE.txt": "/ReactApp/static/js/2.388091f5.chunk.js.LICENSE.txt",
+    "static/media/electric_country_guitar.9b6f3750.jpg": "/ReactApp/static/media/electric_country_guitar.9b6f3750.jpg",
+    "static/media/electric_guitar.e9e2159a.jpg": "/ReactApp/static/media/electric_guitar.e9e2159a.jpg",
+    "static/media/funk_beats.112d1bdd.jpg": "/ReactApp/static/media/funk_beats.112d1bdd.jpg",
+    "static/media/groove_beat.2491d8a7.jpg": "/ReactApp/static/media/groove_beat.2491d8a7.jpg",
+    "static/media/logo.6ce24c58.svg": "/ReactApp/static/media/logo.6ce24c58.svg",
+    "static/media/maze_politics.4129e21b.jpg": "/ReactApp/static/media/maze_politics.4129e21b.jpg",
+    "static/media/organ_synth.6997e73f.jpg": "/ReactApp/static/media/organ_synth.6997e73f.jpg",
+    "static/media/pass_groove.4cd2bee8.jpg": "/ReactApp/static/media/pass_groove.4cd2bee8.jpg",
+    "static/media/stompy_slosh.af03abc8.jpg": "/ReactApp/static/media/stompy_slosh.af03abc8.jpg",
+    "static/media/stutter_breakBeats.88ee249b.jpg": "/ReactApp/static/media/stutter_breakBeats.88ee249b.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f81f5df9.js",
+    "static/css/2.53150396.chunk.css",
+    "static/js/2.388091f5.chunk.js",
+    "static/css/main.7899c2cf.chunk.css",
+    "static/js/main.3a35844d.chunk.js"
+  ]
+}
